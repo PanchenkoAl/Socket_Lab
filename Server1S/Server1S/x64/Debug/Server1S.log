@@ -1,0 +1,8 @@
+﻿  Server1S.cpp
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(49,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(54,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(67,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(72,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(124,88): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ya\source\repos\Server1S\Server1S\Server1S.cpp(165,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Server1S.vcxproj -> C:\Users\Ya\source\repos\Server1S\x64\Debug\Server1S.exe
